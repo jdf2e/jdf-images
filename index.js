@@ -1,1 +1,1 @@
-module.exports = require('./1node-pngquant-native/index.html');
+module.exports = require('./node-pngquant-native');
