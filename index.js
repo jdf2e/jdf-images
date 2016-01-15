@@ -1,1 +1,1 @@
-module.exports = require('./node-pngquant-native');
+module.exports = require('./jdf-images');
