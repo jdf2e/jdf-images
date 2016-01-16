@@ -1,29 +1,29 @@
 {
   "name": "jdf-images",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "jdf-images",
-  "homepage": "https://github.com/putaoshu/jdf",
+  "homepage": "https://github.com/wshxbqq/jdf",
   "author": {
     "name": "wshxbqq",
     "email": "wshxbqq@gmail.com",
-    "url": "https://github.com/putaoshu/jdf"
+    "url": "https://github.com/wshxbqq/jdf"
   },
   "keywords": [
     "jdf"
   ],
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/putaoshu/jdf/issues"
+    "url": "https://github.com/wshxbqq/jdf/issues"
   },
-  "license": "",
+  "license": "MIT",
   "main": "index.js",
   "files": [
-    "images",
+    "jdf-images",
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/putaoshu/jdf.git"
+    "url": "git://github.com/wshxbqq/jdf.git"
   },
   "engines": {
     "node": ">= 0.8.0"
@@ -31,26 +31,12 @@
   "dependencies": {},
   "scripts": {},
   "directories": {},
-  "_from": "jdf-images@>=1.0.0 <2.0.0",
   "devDependencies": {},
-  "_id": "jdf-images@1.0.0",
-  "_shasum": "b8a78a0945c9f0c0c43a33ded9e1f15d00d66d56",
-  "_npmVersion": "2.7.4",
-  "_nodeVersion": "0.12.2",
-  "_npmUser": {
-    "name": "wshxbqq",
-    "email": "wshxbqq@gmail.com"
-  },
-  "dist": {
-    "shasum": "b8a78a0945c9f0c0c43a33ded9e1f15d00d66d56",
-    "tarball": "http://registry.npmjs.org/jdf-images/-/jdf-images-1.0.0.tgz"
-  },
   "maintainers": [
     {
       "name": "wshxbqq",
       "email": "wshxbqq@gmail.com"
     }
   ],
-  "_resolved": "https://registry.npmjs.org/jdf-images/-/jdf-images-1.0.0.tgz",
   "readme": "ERROR: No README data found!"
 }
