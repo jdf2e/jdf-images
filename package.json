@@ -1,42 +1,44 @@
 {
-  "name": "jdf-images",
-  "version": "1.0.2",
-  "description": "jdf-images",
-  "homepage": "https://github.com/wshxbqq/jdf",
   "author": {
     "name": "wshxbqq",
     "email": "wshxbqq@gmail.com",
     "url": "https://github.com/wshxbqq/jdf"
   },
-  "keywords": [
-    "jdf"
-  ],
-  "contributors": [],
   "bugs": {
     "url": "https://github.com/wshxbqq/jdf/issues"
   },
-  "license": "MIT",
-  "main": "index.js",
+  "contributors": [],
+  "dependencies": {},
+  "description": "jdf-images",
+  "devDependencies": {},
+  "directories": {},
+  "engines": {
+    "node": ">= 0.8.0"
+  },
   "files": [
     "jdf-images",
     "index.js"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/wshxbqq/jdf.git"
-  },
-  "engines": {
-    "node": ">= 0.8.0"
-  },
-  "dependencies": {},
-  "scripts": {},
-  "directories": {},
-  "devDependencies": {},
+  "gitHead": "d4efe9043b2693f934231482bab9e801518c03e5",
+  "homepage": "https://github.com/wshxbqq/jdf",
+  "keywords": [
+    "jdf"
+  ],
+  "license": "MIT",
+  "main": "index.js",
   "maintainers": [
     {
       "name": "wshxbqq",
       "email": "wshxbqq@gmail.com"
     }
   ],
-  "readme": "ERROR: No README data found!"
+  "name": "jdf-images",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wshxbqq/jdf.git"
+  },
+  "scripts": {},
+  "version": "1.1.0"
 }
