@@ -2,10 +2,10 @@
   "author": {
     "name": "wshxbqq",
     "email": "wshxbqq@gmail.com",
-    "url": "https://github.com/wshxbqq/jdf"
+    "url": "https://github.com/jdf2e/jdf"
   },
   "bugs": {
-    "url": "https://github.com/wshxbqq/jdf/issues"
+    "url": "https://github.com/jdf2e/jdf/issues"
   },
   "contributors": [],
   "dependencies": {},
@@ -20,7 +20,7 @@
     "index.js"
   ],
   "gitHead": "d4efe9043b2693f934231482bab9e801518c03e5",
-  "homepage": "https://github.com/wshxbqq/jdf",
+  "homepage": "https://github.com/jdf2e/jdf",
   "keywords": [
     "jdf"
   ],
@@ -37,7 +37,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wshxbqq/jdf.git"
+    "url": "git://github.com/jdf2e/jdf.git"
   },
   "scripts": {},
   "version": "1.1.0"
